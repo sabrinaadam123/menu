@@ -30,12 +30,12 @@
         display: block;
       }
           .lista-menu__titulo {
-            color: var(--laranja);
-          }
-          
-      .lista-menu__item {
+        .lista-menu__item {
         padding: 1em;
         background-color: var(--branco);
+      }
+      .lista-menu__titulo {
+        color: var(--laranja);
       }
       
       
